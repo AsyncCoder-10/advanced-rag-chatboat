@@ -108,4 +108,4 @@ Start the Streamlit web app.
 
 bash
 streamlit run app.py
-The app will open in your browser at http://localhost:8501. Start asking questions!
+The app will open in your browser at http://localhost:8501
