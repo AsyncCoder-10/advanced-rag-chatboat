@@ -1,0 +1,15 @@
+langchain
+langchain-community
+langchain-huggingface
+langchain-text-splitters
+langchain-classic 
+chromadb
+streamlit
+pypdf
+python-dotenv
+sentence-transformers
+transformers
+torch
+accelerate
+llama-cpp-python
+langchain-groq
