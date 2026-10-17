@@ -1,4 +1,4 @@
-# OLD OLD OLD OLD OLD OLD OLD OLD OLD OLD OLD OLD OLD OLD 
+# Phase 1 Phase 1 Phase 1 Phase 1 Phase 1 Phase 1 Phase 1 Phase 1 Phase 1 
 from langchain_community.embeddings import HuggingFaceEmbeddings
 from langchain_community.vectorstores import Chroma
 from langchain_classic.chains import create_retrieval_chain
@@ -52,7 +52,7 @@ def get_rag_chain():
     return rag_chain
 
 
-# NEW NEW NEW NEW NEW NEW NEW NEW NEW NEW NEW NEW NEW NEW NEW NEW NEW 
+# Phase 2 Phase 2 Phase 2 Phase 2 Phase 2 Phase 2 Phase 2 Phase 2 Phase 2 
 from langchain_community.embeddings import HuggingFaceEmbeddings
 from langchain_community.vectorstores import Chroma
 from langchain_classic.chains import create_retrieval_chain
