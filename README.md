@@ -68,6 +68,7 @@ advanced-rag-chatbot/
 │   └── rag_pipeline.py   # Core logic for retrieval, prompting, and generation
 │
 └── app.py                # Streamlit web interface
+
 🚀 Getting Started
 Follow these steps to set up and run the project locally.
 
@@ -110,11 +111,14 @@ bash
 streamlit run app.py
 The app will open in your browser at http://localhost:8501
 
+<img width="867" height="653" alt="image" src="https://github.com/user-attachments/assets/0a3a3c42-3256-4244-a64e-df1412bdde8a" />
+
+
 Working Video
+<video width="320" height="240" controls>
+  <source src="https://github.com/user-attachments/assets/09306c63-a3f8-4514-871c-cbcc59dbecad" type="video/mp4">.
+</video>
 
-
-
-https://github.com/user-attachments/assets/09306c63-a3f8-4514-871c-cbcc59dbecad
 
 
 
