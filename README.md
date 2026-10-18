@@ -123,11 +123,8 @@ Follow these steps to run the application locally.
 
 ### 1. Clone the Repository
 
-Replace the repository URL with your actual GitHub repository URL.
-
 ```bash
-git clone https://github.com/your-username/advanced-rag-chatbot.git
-cd advanced-rag-chatbot
+git clone https://github.com/AsyncCoder-10/advanced-rag-chatboat
 ```
 
 ### 2. Create a Virtual Environment
